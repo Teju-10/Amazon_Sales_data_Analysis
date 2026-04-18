@@ -9,8 +9,8 @@ This project presents a **Sales Analysis Dashboard** built using **Power BI** ba
 ##  Dataset Information
 
 * **Source**: Amazon Sales Dataset (downloaded from external source)
-* **Total Rows**: 89,082
-* **Columns Included**:
+* **Total Columns**: 89,082
+* **Rows Included**:
 
   * Product Category
   * Product Description
